@@ -9,3 +9,14 @@ D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.csproj.Genera
 D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.exe
 D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.pdb
 D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.Form1.resources
+C:\Users\alijassim\Source\Repos\Test\Exampledt\bin\Debug\Exampledt.exe.config
+C:\Users\alijassim\Source\Repos\Test\Exampledt\obj\Debug\Exampledt.exe
+C:\Users\alijassim\Source\Repos\Test\Exampledt\obj\Debug\Exampledt.pdb
+C:\Users\alijassim\Source\Repos\Test\Exampledt\bin\Debug\Database1.mdf
+C:\Users\alijassim\Source\Repos\Test\Exampledt\bin\Debug\Database1_log.ldf
+C:\Users\alijassim\Source\Repos\Test\Exampledt\bin\Debug\Exampledt.exe
+C:\Users\alijassim\Source\Repos\Test\Exampledt\bin\Debug\Exampledt.pdb
+C:\Users\alijassim\Source\Repos\Test\Exampledt\obj\Debug\Exampledt.csprojResolveAssemblyReference.cache
+C:\Users\alijassim\Source\Repos\Test\Exampledt\obj\Debug\Exampledt.Form1.resources
+C:\Users\alijassim\Source\Repos\Test\Exampledt\obj\Debug\Exampledt.Properties.Resources.resources
+C:\Users\alijassim\Source\Repos\Test\Exampledt\obj\Debug\Exampledt.csproj.GenerateResource.Cache
