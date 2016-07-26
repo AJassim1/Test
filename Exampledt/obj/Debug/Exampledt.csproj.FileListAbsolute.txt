@@ -1,0 +1,11 @@
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\bin\Debug\Exampledt.exe.config
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\bin\Debug\Database1.mdf
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\bin\Debug\Database1_log.ldf
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\bin\Debug\Exampledt.exe
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\bin\Debug\Exampledt.pdb
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.csprojResolveAssemblyReference.cache
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.Properties.Resources.resources
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.csproj.GenerateResource.Cache
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.exe
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.pdb
+D:\NotBackedUp\My Projects\Exampledt\Exampledt\obj\Debug\Exampledt.Form1.resources
